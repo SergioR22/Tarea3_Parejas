@@ -1,0 +1,11 @@
+c:\users\srodriguez\documents\visual studio 2013\Projects\Guia2\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\bin\Debug\Guia2.exe
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\bin\Debug\Guia2.pdb
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.csprojResolveAssemblyReference.cache
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.Properties.Resources.resources
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.csproj.GenerateResource.Cache
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.exe
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.pdb
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.MessageBox.resources
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.VisorDeImagenesYEnlaces.resources
+C:\Users\srodriguez\Documents\Visual Studio 2013\Projects\Guia2\Guia2\obj\Debug\Guia2.CalculosFC.resources
